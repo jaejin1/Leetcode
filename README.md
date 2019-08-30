@@ -10,3 +10,4 @@
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[go](./go/src/LRUCache/146.go)| O(1) | O(n) | Medium | Design |
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[python3](./python3/FindFirstandLastPositionofElementinSortedArray/34.py), [go](./go/src/FindFirstandLastPositionofElementinSortedArray/34.go)| O(log n) | O(1) | Medium | Array, Binary Search |
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[python3](./python3/JewelsandStones/771.py)| O(n) | O(n) | Easy | Hash Table |
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[python3](./python3/MaximumDepthofBinaryTree/104.py), [go](./go/src/MaximumDepthofBinaryTree/104.go)| O(log n) | O(1) | Easy | Tree, Depth-first Search(DFS) |
