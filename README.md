@@ -13,3 +13,4 @@
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[python3](./python3/MaximumDepthofBinaryTree/104.py), [go](./go/src/MaximumDepthofBinaryTree/104.go)| O(log n) | O(1) | Easy | Tree, Depth-first Search(DFS) |
 |1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[go](./go/src/BinarySearchTreetoGreaterSumTree/1038.go)| O(n) | O(n) | Medium | Binary Search Tree |
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[go-1](./go/src/SingleNumber/136-2.go), [go-2](./go/src/SingleNumber/136-2.go)| O(n), O(n) | O(1), O(n) | Easy | Bit Manipulation |
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[go](./go/src/InvertBinaryTree/226.go)| O(n) | O(n) | Easy | Tree |
