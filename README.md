@@ -17,3 +17,4 @@
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[go](./go/src/ReverseLinkedList/206.go)| O(n) | O(1) | Easy | Linked List |
 |890|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[python3](./python3/FindandReplacePattern/890.py), [go](./go/src/FindandReplacePattern/890.go)| O(n*k) | O(n*k) | Medium | String |
 |1016|[Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/)|[go](./go/src/BinaryStringWithSubstringsRepresenting1ToN/1016.go)| O(n) | O(1) | Medium | String |
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[go](./go/src/CountingBits/338.go)| O(n) | O(n) | Medium | Dynamic Programming, Bit Manipulation |
