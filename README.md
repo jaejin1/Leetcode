@@ -19,3 +19,4 @@
 |1016|[Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/)|[go](./go/src/BinaryStringWithSubstringsRepresenting1ToN/1016.go)| O(n) | O(1) | Medium | String |
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[go](./go/src/CountingBits/338.go)| O(n) | O(n) | Medium | Dynamic Programming, Bit Manipulation |
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[python3](./python3/PalindromicSubstrings/647.py)| O(n^2) | O(n^2) | Medium | Dynamic Programming, String |
+|62|[UniquePaths](https://leetcode.com/problems/unique-paths/)|[python3](./python3/UniquePaths/62.py)| O(m*n) | O(m*n) | Medium | Dynamic Programming, Array |
