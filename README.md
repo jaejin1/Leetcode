@@ -24,3 +24,4 @@
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[go](./go/src/UniqueBinarySearchTrees/96.go)| O(n^2) | O(n) | Medium | Dynamic Programming, Tree |
 |494|[Target Sum](https://leetcode.com/problems/target-sum/)|[go](./go/src/TargetSum/494.go)| O(2^n) | O(n) | Medium | Dynamic Programming, Depth-first Search |
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[go](./go/src/ProductofArrayExceptSelf/238.go)| O(n) | O(n) | Medium | Array |
+|89|[Word Search](https://leetcode.com/problems/word-search/)|[python3](./python3/WordSearch/79.py)| O(n^2) | O(n^2) | Medium | Backtracking, Array |
