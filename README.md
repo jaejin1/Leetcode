@@ -31,3 +31,4 @@
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[python3](./python3/SymmetricTree/101.py), [go](./go/src/SymmetricTree/101.go)| O(n) | O(n) | Easy | Tree, Depth-first Search, Breadth-first Search |
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[go](./go/src/ShortestUnsortedContinuousSubarray/581.go)| O(nlogn) | O(n) | Easy | Array |
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[go](./go/src/MoveZeroes/283.go)| O(n) | O(n) | Easy | Array, Two Pointers |
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[go](./go/src/MaximumSubarray/53.go)| O(n) | O(n) | Easy | Array, Divide and Conquer, Dynamic Programming |
