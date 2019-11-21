@@ -18,9 +18,10 @@
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[python3](./python3/MaximumDepthofBinaryTree/104.py), [go](./go/src/MaximumDepthofBinaryTree/104.go)| O(log n) | O(1) | Easy | Tree, Depth-first Search(DFS) |
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[go-1](./go/src/SingleNumber/136-1.go), [go-2](./go/src/SingleNumber/136-2.go)| O(n), O(n) | O(1), O(n) | Easy | Bit Manipulation |
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[go](./go/src/LRUCache/146.go)| O(1) | O(n) | Medium | Design |
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)|[python3](./python3/MajorityElement/169.py)| O(n) | O(n) | Easy | Array |
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[go](./go/src/ReverseLinkedList/206.go)| O(n) | O(1) | Easy | Linked List |
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[go](./go/src/InvertBinaryTree/226.go)| O(n) | O(n) | Easy | Tree |
-|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[python3](./python/PalindromeLinkedList/234.py)| O(n) | O(1) | Easy | Linked List, Two Pointers |
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[python3](./python3/PalindromeLinkedList/234.py)| O(n) | O(1) | Easy | Linked List, Two Pointers |
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[go](./go/src/ProductofArrayExceptSelf/238.go)| O(n) | O(n) | Medium | Array |
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[go-1](./go/src/ValidAnagram/242-1.go), [go-2](./go/src/ValidAnagram/242-2.go)| O(n), O(n) | O(n), O(n) | Easy | Hash Table, Sort, Bit Manipulation |
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[go](./go/src/MoveZeroes/283.go)| O(n) | O(n) | Easy | Array, Two Pointers |
