@@ -6,6 +6,7 @@
 |-----|----------------|---------------|---------------|---------------|-------------|-------------
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[python3](./python3/TwoSum/1.py)| O(n) | O(n) | Easy | Array, Hash Table |
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[python3](./python3/ValidParentheses/20.py)| O(n) | O(n) | Easy | String, Stack |
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[python3](./python3/MergeTwoSortedLists/21.py)| O(n) | O(n) | Easy | Linked List |
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[python3](./python3/FindFirstandLastPositionofElementinSortedArray/34.py), [go](./go/src/FindFirstandLastPositionofElementinSortedArray/34.go)| O(log n) | O(1) | Medium | Array, Binary Search |
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[go](./go/src/MaximumSubarray/53.go)| O(n) | O(n) | Easy | Array, Divide and Conquer, Dynamic Programming |
 |62|[UniquePaths](https://leetcode.com/problems/unique-paths/)|[python3](./python3/UniquePaths/62.py)| O(m*n) | O(m*n) | Medium | Dynamic Programming, Array |
