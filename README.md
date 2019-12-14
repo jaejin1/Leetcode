@@ -8,6 +8,7 @@
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[python3](./python3/ValidParentheses/20.py)| O(n) | O(n) | Easy | String, Stack |
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[python3](./python3/MergeTwoSortedLists/21.py)| O(n) | O(n) | Easy | Linked List |
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[python3](./python3/FindFirstandLastPositionofElementinSortedArray/34.py), [go](./go/src/FindFirstandLastPositionofElementinSortedArray/34.go)| O(log n) | O(1) | Medium | Array, Binary Search |
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[python3](./python3/CombinationSum/39.py)| O(n^2) | O(n) | Medium | Array, Backtracking |
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[go](./go/src/MaximumSubarray/53.go)| O(n) | O(n) | Easy | Array, Divide and Conquer, Dynamic Programming |
 |62|[UniquePaths](https://leetcode.com/problems/unique-paths/)|[python3](./python3/UniquePaths/62.py)| O(m*n) | O(m*n) | Medium | Dynamic Programming, Array |
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[go](./go/src/MinimumPathSum/64.go)| O(m*n) | O(m*n) | Medium | Dynamic Programming, Array |
@@ -16,6 +17,7 @@
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[go](./go/src/UniqueBinarySearchTrees/96.go)| O(n^2) | O(n) | Medium | Dynamic Programming, Tree |
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[python3](./python3/SymmetricTree/101.py), [go](./go/src/SymmetricTree/101.go)| O(n) | O(n) | Easy | Tree, Depth-first Search, Breadth-first Search |
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[python3](./python3/MaximumDepthofBinaryTree/104.py), [go](./go/src/MaximumDepthofBinaryTree/104.go)| O(log n) | O(1) | Easy | Tree, Depth-first Search(DFS) |
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[java](./java/BestTimetoBuyandSellStock/121.java)| O(n) | O(1) | Easy | Array, Dynamic Programming |
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[go-1](./go/src/SingleNumber/136-1.go), [go-2](./go/src/SingleNumber/136-2.go)| O(n), O(n) | O(1), O(n) | Easy | Bit Manipulation |
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[go](./go/src/LRUCache/146.go)| O(1) | O(n) | Medium | Design |
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[python3](./python3/MajorityElement/169.py)| O(n) | O(n) | Easy | Array |
@@ -34,6 +36,7 @@
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[python3-1](./python3/MergeTwoBinaryTrees/617_1.py), [python3-2](./python3/MergeTwoBinaryTrees/617_2.py), [go](./go/src/MergeTwoBinaryTrees/617.go)| O(n) | O(n) | Easy | Tree |
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[python3](./python3/PalindromicSubstrings/647.py)| O(n^2) | O(n^2) | Medium | Dynamic Programming, String |
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[python3](./python3/JewelsandStones/771.py)| O(n) | O(n) | Easy | Hash Table |
+|784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[python3](./python3/LetterCasePermutation/784.py)| O(n) | O(n) | Easy | Bit Manipulation, Backtracking |
 |890|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[python3](./python3/FindandReplacePattern/890.py), [go](./go/src/FindandReplacePattern/890.go)| O(n*k) | O(n*k) | Medium | String |
 |1016|[Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/)|[go](./go/src/BinaryStringWithSubstringsRepresenting1ToN/1016.go)| O(n) | O(1) | Medium | String |
 |1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)|[go](./go/src/RemoveOutermostParentheses/1021.go)| O(n) | O(c) | Easy | Stack |
